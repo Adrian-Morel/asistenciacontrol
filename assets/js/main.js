@@ -1,0 +1,1 @@
+// Este archivo contiene scripts JavaScript para la funcionalidad del lado del cliente, como la interacción con los elementos de la interfaz.
